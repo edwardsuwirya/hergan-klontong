@@ -1,0 +1,8 @@
+.detail.container{
+    display: flex;
+}
+
+.detail.imgProduct{
+    width: 90px;
+    height: 90px;
+}

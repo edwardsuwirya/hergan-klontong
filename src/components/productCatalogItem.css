@@ -1,0 +1,15 @@
+.catalogItem.container {
+    margin: 10px;
+    width: 12rem;
+    height: 15rem;
+}
+
+.catalogItem.imgProd {
+    width: 120px;
+    height: 120px;
+}
+
+.catalogItem.prodName {
+    font-size: medium;
+    font-weight: bolder;
+}
