@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  reactdocker-fe:
+    image: edo/hergan-klontong:1.0
+    build:
+      context: ./
+      dockerfile: dockerfile
+    ports:
+      - "80:80"
+    restart:
+       always
